@@ -1,0 +1,156 @@
+body {
+  font-family: Roboto, sans-serif;
+  color: #212121;
+}
+
+.header {
+  background: white;
+}
+
+/* components */
+
+.link {
+  text-decoration: none;
+}
+
+.link-contact {
+  color: #757575;
+}
+
+.link-menu {
+  color: #212121;
+}
+
+.link-contact-footer {
+  font-style: normal;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.link-maps {
+  color: #ffffff;
+  font-style: normal;
+}
+
+.link:hover,
+.link:focus {
+  color: #2196f3;
+}
+
+.menu-link {
+  background: #f5f4fa;
+  color: #212121;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.menu-link:hover,
+.menu-link:focus {
+  background: #2196f3;
+  color: #ffffff;
+}
+
+.logo {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+  text-decoration: none;
+}
+
+.logo-white {
+  color: white;
+}
+
+.logo-black {
+  color: black;
+}
+
+.list {
+  list-style: none;
+}
+
+/*order_service*/
+
+.order_service {
+  background: #2f303a;
+}
+
+.order_service_header {
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.button_order_service {
+  background-color: #2196f3;
+  color: #ffffff;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.87;
+}
+
+/* specifics */
+
+.specifics-item-header {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.specifics-item-text {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+/* services */
+
+.services-header {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+/* our-team */
+
+.our-team-header {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+.our-team {
+  background: #f5f4fa;
+}
+
+/* footer */
+.webstudio-footer {
+  background: #2f303a;
+}
+
+/* portfolio */
+
+.potrtfolio-item {
+  background: #ffffff;
+}
